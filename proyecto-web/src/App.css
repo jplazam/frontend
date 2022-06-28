@@ -1,0 +1,36 @@
+body {
+  background: #232427;
+  color: #fff;
+  padding: 0%;
+  margin: 0%;
+}
+
+.navBar {
+  padding: 0%;
+  margin: 0%;
+}
+
+.navBar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(207, 207, 207);
+}
+
+.navBar li {
+  float: left;
+}
+
+.navBar li a {
+  display: block;
+  color: rgb(8, 8, 8);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.navBar li a:hover {
+  background-color: rgb(146, 146, 146);
+}

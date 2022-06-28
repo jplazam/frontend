@@ -1,0 +1,9 @@
+.postContainer {
+  padding: 50px;
+  align-items: flex-start;
+}
+
+.postContainer .img {
+  min-width: 500px;
+  height: auto;
+}
